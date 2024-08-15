@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1694022463 source:d:\suudent\student_gradebooksystem\course.cpp
+	"course.h"
+	"student.h"
+
+1693935498 d:\suudent\student_gradebooksystem\course.h
+	<iostream>
+	"student.h"
+	<string>
+
+1694022521 source:d:\suudent\student_gradebooksystem\gradebooksystem.cpp
+	"gradebooksystem.h"
+	"course.h"
+	<iostream>
+	"student.h"
+	<unistd.h>
+
+1693942423 d:\suudent\student_gradebooksystem\gradebooksystem.h
+	"course.h"
+	"student.h"
+
+1693989654 source:d:\suudent\student_gradebooksystem\student.cpp
+	"student.h"
+
+1693943955 d:\suudent\student_gradebooksystem\student.h
+	<string>
+	<iostream>
+
+1694024735 source:d:\suudent\student_gradebooksystem\main.cpp
+	<iostream>
+	<windows.h>
+	<unistd.h>
+	"gradebooksystem.h"
+	"student.h"
+	"course.h"
+	<stdlib.h>
+
